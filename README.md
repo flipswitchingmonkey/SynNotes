@@ -1,8 +1,8 @@
 # SynNotes
 Simple syntax highlighted Notes manager with incremental full-text search and GMaill like tags as folders.  
 Most of the time app basically hides in the system tray. Then you push global hotkey, and it appears with last Note opened and Search field already focused. After you found data needed hide the app back by pressing `ESC`.
-![overview](http://habrastorage.org/files/34c/10f/8da/34c10f8da396435882ea93d20c77364b.png)
-![search](http://habrastorage.org/files/562/b9a/c7c/562b9ac7cb764f89a34ecd63fc65719a.png)
+![overview](https://habrastorage.org/files/6bb/e5f/f01/6bbe5ff010fa4fc488b1a071e333dab7.png)
+![search](https://habrastorage.org/files/1d7/fdc/fc4/1d7fdcfc44e54552bfd0951ca9e840b9.png)
 When you have some notes created - you probably would like to sync them to other your workstations/mobile devices. Also, versioning and cloud backups would be nice. All that provided if you enable sync with your [Simplenote](http://simplenote.com//) account
 
 #### Used
@@ -24,7 +24,7 @@ That is very simple app and it will be so. No bells'n'whistles for reduced memor
 
 ###### Sync
 Simplenote sync is configured when you first press `Sync` button:  
-![sync](http://habrastorage.org/files/957/10b/f0e/95710bf0e45948ae933b13bbb7d6c2f0.png)  
+![sync](https://habrastorage.org/files/f68/b9b/e06/f68b9be06c1a4d11b584d5123ce051bc.png)  
 Or at any time by Right-Clicking of that button. No any data exchange is performed when `Sync Frequency` set to `Manual` until you press the `Sync` button.
 
 ###### Settings
