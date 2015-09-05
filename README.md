@@ -1,7 +1,7 @@
 # SynNotes
 Simple syntax highlighted Notes manager with incremental full-text search and GMaill like tags as folders.  
 Most of the time app basically hides in the system tray. Then you push global hotkey, and it appears with last Note opened and Search field already focused. After you found data needed hide the app back by pressing `ESC`.
-![overview](https://habrastorage.org/files/0d0/2fc/d8d/0d02fcd8d852482c9bc476688ca5a3ac.png)
+![overview](https://habrastorage.org/files/cf9/b58/c3a/cf9b58c3ae884ec78f9bf2663c34ea19.png)
 ![search](https://habrastorage.org/files/25f/c68/31d/25fc6831d22543cab762610b7ad2abb6.png)
 When you have some notes created - you probably would like to sync them to other your workstations/mobile devices. Also, versioning and cloud backups would be nice. All that provided if you enable sync with your [Simplenote](http://simplenote.com//) account
 
